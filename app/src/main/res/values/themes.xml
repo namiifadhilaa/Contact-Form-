@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Najmifadhila_contactForm" parent="Theme.Material3.DayNight.NoActionBar">
+       <item name="colorPrimary">@color/colorPrimary</item>
+
+    </style>
+
+    <style name="Theme.Najmifadhila_contactForm" parent="Base.Theme.Najmifadhila_contactForm" />
+</resources>
